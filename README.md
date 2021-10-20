@@ -6,7 +6,7 @@ Built a CSGO Binary Classification model using Machine Learning algorithms in Py
 and 2020. Kindly refer to the above kaggle link for more dataset details. Our goal is to compute the round winner as 'CT' or 'T' based on the round statistics like map,bomb_planted,t_health,ct_health,t_armor,ct_armor etc. Classification models used are Logistic regression, Decision Tree Classification, Random Forest Classifier, K-NN, Support Vector Machines(SVM) .
 
 Please find following 4 files : 
-1.) CaseStudy_FIFA_PlayerType_Classification.py 
-2.) CaseStudy_FIFA_PlayerType_Classification.ipynb 
-3.) players_20_classification.csv 
-4.) players_20.xlsx
+1.) CaseStudy_CSGO_RoundWinnerPredictor_Classification.py
+2.) CaseStudy_CSGO_RoundWinnerPredictor_Classification.ipynb 
+3.) csgo_round_snapshots.csv
+4.) confusion_matrix.png
