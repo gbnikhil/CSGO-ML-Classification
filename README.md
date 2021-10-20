@@ -8,5 +8,5 @@ and 2020. Kindly refer to the above kaggle link for more dataset details. Our go
 Please find following 4 files : 
 1.) CaseStudy_CSGO_RoundWinnerPredictor_Classification.py
 2.) CaseStudy_CSGO_RoundWinnerPredictor_Classification.ipynb 
-3.) csgo_round_snapshots.csv
+3.) csgo_round_snapshots.zip (contains data file)
 4.) confusion_matrix.png
